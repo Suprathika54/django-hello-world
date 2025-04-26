@@ -17,11 +17,13 @@ This is a simple Django web application that returns a **"Hello World!"** messag
 ## Getting Started
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/Suprathika54/django-hello-world.git
 cd django-hello-world
-bash```
 
+### 2. Run the Server
+
+python manage.py runserver
 
 
 ![image](https://github.com/user-attachments/assets/a3c5311c-b5a6-4fbf-86ca-4ef165171fb1)
